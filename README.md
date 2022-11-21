@@ -1,3 +1,7 @@
 # Zi's research notes
 
-## International Trade and economic geography
+## Research thoughts
+
+## Codes and templates
+
+## Notes on the literature
