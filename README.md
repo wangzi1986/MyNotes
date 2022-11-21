@@ -1,1 +1,1 @@
-# MyNotes
+# Zi's research notes
